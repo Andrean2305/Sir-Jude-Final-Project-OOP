@@ -6,3 +6,4 @@ Report : https://github.com/Andrean2305/Sir-Jude-Final-Project-OOP/blob/main/Fin
 
 Diagram to open in https://app.diagrams.net/: https://github.com/Andrean2305/Sir-Jude-Final-Project-OOP/blob/main/a.drawio
 
+Diagram PDF : https://github.com/Andrean2305/Sir-Jude-Final-Project-OOP/blob/main/a.drawio.pdf
